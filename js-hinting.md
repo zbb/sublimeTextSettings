@@ -11,6 +11,11 @@
 
 
 # 两种 jshint 方式: grunt jshint 和 Sublime-JSHint 
+- 参数含义参考：
+```javascript
+	https://gist.github.com/connor/1597131
+```
+
 
 ##  grunt jshint 
  - 作为 grunt 插件。用法: ```media``` 目录下运行:   ```grunt: jshint```
